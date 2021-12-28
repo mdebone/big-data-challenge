@@ -1,0 +1,1 @@
+video_games_df = spark.read.option("header", "true").csv("s3a://amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz", inferSchema=True, sep="\t")
