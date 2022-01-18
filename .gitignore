@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+amazon_reviews_us_Books_v1_02.tsv.gz
+amazon_reviews_us_Gift_Card_v1_00.tsv.gz
