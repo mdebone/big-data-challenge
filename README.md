@@ -11,13 +11,13 @@ will become underscores, but only time will tell. I imported the unnamed ipynb t
 the only ipynb file in the repo so with or without a predefined name its easy enough to pick out. 
 
 As there are no instructions regarding the two level-1 and level-2 directories, they're there but it remains to be seen what will populate inside of them. 
-<<<<<<< HEAD
+
 Also not sure if I am supposed to import to either of them other then a few lines of imports and an import os function for both of them
 
-
+Got it resolved, downloaded the two sql files and put them in the main directory, and removed the two gz files
 
 -------
 I don't know what happened, this was all already supposed to be pushed
 =======
-Also not sure if I am supposed to import to either of them other then a few lines of imports and an import os function for both of them
->>>>>>> afa0a6f07f2056b1e74ff9eb64e2cab98a08188e
+
+
